@@ -2,7 +2,7 @@
 
 An E-Pass portal that supports government officials in generating travel passes for citizens moving from one state to another. This application was developed as a full-stack Java web application using Spring Boot and follows the MVC architecture.
 
-## 🚀 Features
+## Features
 
 - Citizen Registration and Login
 - Admin Login with Dashboard
@@ -36,7 +36,7 @@ An E-Pass portal that supports government officials in generating travel passes 
 - Spring Security integrated with custom login success handler
 - Role-based access to differentiate between admin and citizen actions
 
-## 📦 How to Run
+## How to Run
 
 1. Clone the repository
 2. Import as a Maven project in your IDE (e.g., IntelliJ or Eclipse)
