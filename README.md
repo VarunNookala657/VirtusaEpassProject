@@ -12,14 +12,14 @@ An E-Pass portal that supports government officials in generating travel passes 
 - Secure Authentication & Authorization
 - Role-based Access (Admin vs Citizen)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Java, Spring Boot, Spring Security
 - **Frontend**: HTML templates 
 - **Build Tool**: Maven
 - **Template Engine**: Thymeleaf 
 
-## 📁 Project Structure
+##  Project Structure
 
 - `src/main/java/com/example/demo` – Java source code
   - Controllers (`controller/`)
